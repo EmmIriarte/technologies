@@ -1,3 +1,3 @@
 # technologies
 
-Repo to handle submitting & updating technologies on lablab.ai
+Repo to handle submitting & updating technologies on lablab.ai tsting templates
